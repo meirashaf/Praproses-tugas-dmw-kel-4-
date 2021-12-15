@@ -9,3 +9,4 @@ Anggota:
 Branch untuk subtopik tugas:
 1. Praproses
 2. Klasifikasi dan Perbaikan
+3. Time Series
